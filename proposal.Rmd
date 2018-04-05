@@ -1,8 +1,9 @@
 
 ## Introduction to Data Science
 
-## Capstone Project Proposal 
-## __Eva-Marie Costello__
+__Capstone Project Proposal__
+__Eva-Marie Costello__
+*April 2018*
  
  
 ## __What is the problem you want to solve?__
