@@ -2,20 +2,22 @@
 title: "Eva Marie Costello Capstone Project DS1"
 output: html_document
 ---
-#Introduction to Data Science
-##Capstone Project Proposal 
-##__Eva-Marie Costello__
+# Introduction to Data Science
+
+
+## Capstone Project Proposal 
+## __Eva-Marie Costello__
  
  
-##What is the problem you want to solve?
+## __What is the problem you want to solve?__
 In the U.S a very large portion of the Baby Boomer population is either voluntarily or involuntarily being retired without sufficient funds to maintain themselves above the poverty level. For Baby Boomers, one of the major missing pieces for gaining entry to flexible income channels is their lack of digital skills and ease using technology. Marty (a startup idea I am working on) is targeting the opportunity of training people to leverage their digital access to improve their financial stability through flexible gig economy opportunities. Many seniors are now facing the reality of ‘never-ending’ work, but having the flexibility of part-time gig work income is a truly viable alternative to supporting citizens as they age. Older Americans were the only demographic where poverty rose significantly (14.5%) between 2015 and 2016 according to the Census Bureau. This presents a scary preview of the fate that may befall millions of retires as the aging population grows. Marty wants to empower these retirees to learn the digital skills to increase their flexible earning capacity, preventing this poverty number from continuing to rise in the coming decades.
 
 
-##Who is your client and why do they care about this?
+## __Who is your client and why do they care about this?__
 In a new age of ultra-low levels of unemployment, numerous service businesses are begging for capable and specifically skilled loyal workers.  An industry that is actively looking to recruit Baby Boomers is the gig-economy, and the ride sharing industry in particular. Our clients are gig-economy companies who are looking to acquire more workers. Currently Uber is turning over ~80% of it’s driver workforce every year, which means it is replacing it’s entire workforce every 15 months. Only 4 percent of people who sign up to drive for the ride-hailing service are still driving a year later.  Marty charges $200 to a gig-economy company (e.g Uber) per service provider we activate. This activated worker would have completed our training (e.g how to drive Uber) on our web app. This price is based off Uber’s driver customer acquisition cost of $400 for referrals (for a driver who refers another driver they each get $200). As we are a startup with no brand we are offering a competitive driver CAC of $200. In addition to the driver acquisition cost we are saving customer service dollars for our customer for example, an Uber customer service rep is paid on average of ~$15 per/hour (full cost is hypothetically closer to ~$30 with the inclusion of benefits, facilities, etc). 
 
 
-##What data are you going to use for this? How will you acquire this data?
+## __What data are you going to use for this? How will you acquire this data?__
 We are using data based on gig-worker opportunities and earnings for the Baby Boomer segment in the U.S. We are also using data which indicates the Baby Boomer segments digital access(e.g phone ownership, internet connection etc). I have downloaded 2 relevant data sets from Pew Research. We are planning on analysing the different relationships between earning capability and digital ownership to see if there is a gap which indicates that digital training would increase earning capability rather than access to a phone, internet. I also would like to understand the market size (beachhead) and segmentation in the U.S for our users e.g middle-income Baby Boomers living in Florida. 
 
 **Deliverables:** Greater understanding of opportunity for Marty. Use insights to validate or invalidate product-market fit. Use findings in deck!
