@@ -1,8 +1,10 @@
 
-## Introduction to Data Science
+# Introduction to Data Science
 
 __Capstone Project Proposal__
+
 __Eva-Marie Costello__
+
 *April 2018*
  
  
