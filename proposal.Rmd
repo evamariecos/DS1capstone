@@ -1,9 +1,5 @@
----
-title: "Eva Marie Costello Capstone Project DS1"
-output: html_document
----
-# Introduction to Data Science
 
+## Introduction to Data Science
 
 ## Capstone Project Proposal 
 ## __Eva-Marie Costello__
